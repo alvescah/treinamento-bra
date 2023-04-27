@@ -1,0 +1,6 @@
+EXERCICIO ALTERANDO A TABELA
+
+1) Adicionar uma coluna na tabela vendas a gosto (sendo Varchar 255)
+2) Modificar uma coluna na tabela vendas criada no exercício 1 por varchar 100 (tipagem do campo)
+3) Modificar a coluna datavenda na tabela vendas por data_venda
+4) Excluir a coluna criada no exercício 1 da tabela venda

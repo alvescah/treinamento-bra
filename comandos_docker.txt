@@ -1,0 +1,3 @@
+docker-compose -f bases-arq.yml up -d
+
+mysql -u root -p
