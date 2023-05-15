@@ -153,7 +153,7 @@ _tail companhia-mb.txt_
 
 <hr>
  
-1.  Altere as permissões de um arquivo para que apenas o proprietário possa ler, escrever e executar.
+19.  Altere as permissões de um arquivo para que apenas o proprietário possa ler, escrever e executar.
 
 _**Comando:** chmod u + rws [<nomearquivo>]_
 
